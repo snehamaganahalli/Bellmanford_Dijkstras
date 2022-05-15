@@ -1,7 +1,7 @@
 Steps:
 
 1) Clone the repository
-https://github.com/snehamaganahalli/Bellmanford_Dijkstras.git
+git clone https://github.com/snehamaganahalli/Bellmanford_Dijkstras.git
 
 2) Compile
 make
